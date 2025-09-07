@@ -1,0 +1,17 @@
+# joblib models
+models/*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Misc
+*.DS_Store
+*.log

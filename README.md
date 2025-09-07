@@ -12,7 +12,7 @@ This is an end-to-end machine learning project for sentiment analysis on movie r
 
 ## Repository Structure
 ```bash
-sentiment-analysis-project/
+imdb-sentiment-analysis-project/
 ├── data/                           # Directory for datasets (download and place here)
 │   └── IMDB Dataset.csv            # Downloaded from Kaggle (not committed to git)
 ├── docs/                           # Documentation files
@@ -34,11 +34,11 @@ To set up and run this project, follow these steps. We recommend using a virtual
 
 ### 1) Clone the repo
 ```bash
-git clone https://github.com/salimsazzad/enhanced-sentiment-analysis-ml-project.git
+git clone https://github.com/salimsazzad/imdb-sentiment-analysis-project.git
 ```
 ### 2) Navigate to the project directory
 ```bash
-cd enhanced-sentiment-analysis-ml-project
+cd imdb-sentiment-analysis-project
 ```
 
 ### 3) Create a virtual environment (venv)

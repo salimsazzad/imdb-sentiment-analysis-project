@@ -14,7 +14,7 @@ This is an end-to-end machine learning project for sentiment analysis on movie r
 ```bash
 imdb-sentiment-analysis-project/
 ├── data/                           # Directory for datasets (download and place here)
-│   └── IMDB Dataset.csv            # Downloaded from Kaggle (not committed to git)
+│   └── dataset.csv            # Downloaded from Kaggle (not committed to git)
 ├── docs/                           # Documentation files
 │   └── report.md                   # Project report (convert to PDF)
 ├── models/                         # Saved models and artifacts

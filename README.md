@@ -101,6 +101,7 @@ python src/app.py
 
 - **Screenshots**:
 - Sentiment-Analysis-Demo.png
+  
 ![Sentiment-Analysis-Demo](Sentiment-Analysis-Demo.png)
 
 ## Notes
